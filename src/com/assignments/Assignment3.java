@@ -23,7 +23,7 @@ public class Assignment3
 
     public static void main(String[] args) throws Exception
     {
-        System.out.println("Time required to reach Host "+pingHost("192.168.43.67"));
+        System.out.println("Time required to reach Host "+pingHost("123.50.50.50"));
         ArrayList<Integer> array = new ArrayList<>();
         int n=0;
         while(n<5){

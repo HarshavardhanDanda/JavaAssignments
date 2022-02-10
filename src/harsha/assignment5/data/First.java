@@ -1,4 +1,4 @@
-package harsha.assignment.data;
+package harsha.assignment5.data;
 
 public class First {
      int intVar;

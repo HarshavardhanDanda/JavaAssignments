@@ -1,4 +1,4 @@
-package harsha.assignment.singleton;
+package harsha.assignment5.singleton;
 
 public class Second {
     String strVar;

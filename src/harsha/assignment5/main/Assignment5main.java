@@ -1,7 +1,7 @@
-package harsha.assignment.main;
+package harsha.assignment5.main;
 
-import harsha.assignment.data.First;
-import harsha.assignment.singleton.Second;
+import harsha.assignment5.data.First;
+import harsha.assignment5.singleton.Second;
 
 public class Assignment5main {
     public static void main(String[] args) {
