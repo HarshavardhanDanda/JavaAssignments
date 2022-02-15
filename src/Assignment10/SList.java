@@ -1,7 +1,8 @@
 package Assignment10;
 
 public class SList<Link> {
-     Link link;
+    public Node head;
+    Link link;
      SList(Link list){
      }
     public Link getObject(){
