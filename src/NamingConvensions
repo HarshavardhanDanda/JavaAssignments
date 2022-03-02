@@ -1,0 +1,7 @@
+Based on my observations, Class names should always start with capital letters and all the internal words should also be started with a capital letter.
+Coming to functions, the first letter should be small and all the other internal words should start with a capital letter.
+Variables should be short but meaningful and we must avoid giving one-character to variables.
+
+for example if we take string builder class, it is represented as StringBuilder.
+if its a function it is represented as stringBuilder.
+variable can be string_builder.
